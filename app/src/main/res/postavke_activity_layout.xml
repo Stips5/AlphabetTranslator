@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/duljina_recenice"
+        android:id="@+id/textViewDuljinaRijeci"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:textSize="20sp" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_1_rijeci"
+        android:id="@+id/radioButton1Rijec"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"
+        android:checked="false"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/textViewDuljinaRijeci"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_2_rijeci"
+        android:id="@+id/radioButton2Rijeci"
+        android:layout_marginTop="10dp"
+        android:checked="false"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/radioButton1Rijec"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="30dp"
+        android:layout_alignParentLeft="true"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_3_rijeci"
+        android:id="@+id/radioButton3Rijeci"
+        android:checked="false"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/radioButton2Rijeci"
+        android:layout_alignStart="@+id/radioButton2Rijeci"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:clickable="true" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_n_rijeci"
+        android:id="@+id/radioButtonNRijeci"
+        android:layout_marginTop="10dp"
+        android:checked="false"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/radioButton3Rijeci"
+        android:layout_alignStart="@+id/radioButton2Rijeci"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="30dp"
+        android:clickable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/jezik"
+        android:id="@+id/textViewJezik"
+        android:layout_gravity="center_horizontal"
+        android:enabled="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="160dp"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButtonCroatian"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/croatian_flag_resized"
+        android:background="#00ffffff"
+        android:clickable="true"
+        android:contentDescription="@string/Hrvatski"
+        android:layout_toLeftOf="@+id/imageButtonSerbian"
+        android:contextClickable="true"
+        android:layout_alignRight="@+id/imageButtonSerbian"
+        android:layout_marginRight="80dp"
+        android:layout_alignTop="@+id/imageButtonSerbian"/>
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switchTheme"
+        android:checked="false"
+        android:textOn="@string/dark"
+        android:textOff="@string/default_tema"
+        android:textSize="20sp"
+        android:layout_toRightOf="@+id/textViewTemaID"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/tema_programa"
+        android:id="@+id/textViewTemaID"
+        android:textSize="20sp"
+        android:layout_alignLeft="@+id/textViewDuljinaRijeci"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButtonSerbian"
+        android:src="@drawable/serbia_flag_resized"
+        android:background="#00ffffff"
+        android:layout_alignTop="@+id/textViewJezik"
+        android:layout_toRightOf="@+id/switchTheme"
+        android:layout_below="@+id/textViewJezik"
+        android:layout_marginTop="30dp"
+        />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButtonEnglish"
+        android:src="@drawable/uk_flag_resized"
+        android:background="#00ffffff"
+        android:clickable="true"
+        android:contentDescription="@string/Engleski"
+        android:contextClickable="true"
+        android:layout_alignTop="@+id/imageButtonSerbian"
+        android:layout_toRightOf="@+id/imageButtonSerbian"
+        android:layout_toEndOf="@+id/imageButtonSerbian"
+        android:layout_alignLeft="@+id/imageButtonSerbian"
+        android:layout_alignParentRight="false"
+        android:layout_marginLeft="80dp"/>
+
+
+</RelativeLayout>

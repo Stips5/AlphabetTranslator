@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                             xmlns:app="http://schemas.android.com/apk/res-auto"
+                                             xmlns:tools="http://schemas.android.com/tools"
+                                             android:layout_width="match_parent"
+                                             android:layout_height="match_parent"
+                                             android:background="#006699"
+                                             android:id="@+id/mainPanel"
+                                             android:baselineAligned="false"
+                                             android:orientation="vertical">
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--tools:context="hr.stips.myapplication.MainActivity"-->
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:text="@string/prevoditelj"
+        android:id="@+id/buttonPrevoditeljID"
+        android:minWidth="100dip"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteY="87dp"
+        app:layout_constraintRight_toLeftOf="@+id/guideline7"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:text="@string/igra_prevodenja"
+        android:id="@+id/buttonIgraPrevodenjaID"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteY="87dp"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline7"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintHorizontal_bias="0.22"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:text="@string/postavke"
+        android:id="@+id/buttonPostavkeID"
+        android:textSize="10sp"
+        tools:layout_editor_absoluteY="135dp"
+        app:layout_constraintRight_toLeftOf="@+id/guideline7"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="48dp"
+        android:text="@string/about"
+        android:id="@+id/buttonAboutID"
+        tools:layout_editor_absoluteY="135dp"
+        app:layout_constraintLeft_toLeftOf="@+id/guideline7"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:textSize="10sp"/>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:id="@+id/menuIcon"
+        android:src="@drawable/apk_icon"
+        android:contentDescription="@string/lattocir"
+        app:layout_constraintBottom_toTopOf="@+id/buttonIgraPrevodenjaID"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"/>
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline6"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteY="76dp"
+        tools:layout_editor_absoluteX="0dp"
+        app:layout_constraintGuide_percent="0.3568075"
+        />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="213dp"
+        android:id="@+id/guideline7"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="107dp"
+        app:layout_constraintGuide_percent="0.5023474"
+        />
+
+</android.support.constraint.ConstraintLayout>

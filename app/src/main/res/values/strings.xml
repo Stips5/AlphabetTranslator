@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name" translatable="false">Alphabet Traslator</string>
+    <string name="prevedi">Prevedi</string>
+    <string name="provjeri">Provjeri</string>
+    <string name="_n_rijeci">n riječi</string>
+    <string name="_3_rijeci">3 riječi</string>
+    <string name="_2_rijeci">2 riječi</string>
+    <string name="_1_rijeci">1 riječ</string>
+    <string name="duljina_recenice">Duljina recenica</string>
+    <string name="jezik">Jezik</string>
+    <string name="NoInterntConnection">Nema podatkovne veze</string>
+    <string name="Ćirilica">Ćirilica</string>
+    <string name="Latinica">Latinica</string>
+    <string name="Glagoljica">Glagoljica</string>
+    <string name="Bosančica">Bosančica</string>
+    <string name="UnesiTekstNaLatinici">Unesi tekst za prijevod na latinici</string>
+    <string name="PrevedenoNaCirilicu">Prijevod na ćirilici</string>
+    <string name="PrevedenoNaLatinicu">Prijevod na latinici</string>
+    <string name="PrevedenoNaGlagoljicu">Prevedeno na Glagoljicu</string>
+    <string name="PrevedenoNaBosancicu">Prevedeno na bosančicu</string>
+    <string name="UnesiTekstNaĆirilici">Unesi tekst za prijevod na ćirilici</string>
+    <string name="tema_programa">Tema programa</string>
+    <string name="prevoditelj">Prevoditelj</string>
+    <string name="igra_prevodenja">Vježba</string>
+    <string name="postavke">Postavke</string>
+    <string name="rate_app">Rate app</string>
+    <string name="send_me_your_feedback">Send me your feedback</string>
+    <string name="app_version">Alphabet Traslator 1.1 beta version</string>
+    <string name="Hrvatski">Hrvatski</string>
+    <string name="Engleski">English</string>
+    <string name="notOnMarketJet">App is not on market jet!</string>
+    <string name="PotrebanJeInternet">Potrebna je internetska veza</string>
+    <string name="InternetConnection">Internetska veza</string>
+    <string name="Continue">Nastavi</string>
+    <string name="Exit">Izađi</string>
+    <string name="PotrosnjaPodataka">Može uzrokovati povećanje potrošnje prometa</string>
+    <string name="WIFIOn">Uključi WIFI</string>
+    <string name="MobileData">Uključi mobilne podatke</string>
+    <string name="unesi_tekst_za_prevod_na_latinici_hint">Unesi tekst za prevod na latinici</string>
+    <string name="generiraj_text">Generiraj text</string>
+    <string name="unesi_prijevod_i_provjeri_hint">Unesi prijevod i provjeri</string>
+    <string name="prijevod_teksta_na_cirilici_hint">Prijevod teksta na ćirilici</string>
+    <string name="about">About</string>
+    <string name="zamjeni">Zamjeni</string>
+    <string name="vec_je_na_jeziku">Već je odabrano</string>
+    <string name="default_tema">Default</string>
+    <string name="dark">Dark</string>
+    <string name="srpski">Српски</string>
+    <string name="generirani">Generirani text</string>
+    <string name="AlphabetTraslatorLogo">Alphabet Traslator Slika</string>
+    <string name="Credits" translatable="false">logo designed by Ivan Dugandžić</string>
+
+    <string-array name="Opcije_prevodenja">
+        <item>Latinica -> Ćirilica</item>
+        <item>Ćirilica -> Latinica</item>
+        <item>Latinica -> Glagoljica</item>
+        <item>Latinica -> Bosančica</item>
+    </string-array>
+    <string name="lattocir">Alphabet Traslator</string>
+
+</resources>

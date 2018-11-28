@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyDarkTheme" parent="ThemeOverlay.AppCompat.Dark">
+         Customize your theme here.
+        <item name="android:textColor">@color/accent_material_light</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_800</item>
+        <item name="colorAccent">@color/accent_material_light</item>
+        <item name="android:colorBackground">@color/background_floating_material_dark</item>
+        <item name="android:buttonStyle">@color/textColorSecondary</item>
+        <item name="android:textColorPrimary">#263238</item>
+        <item name="android:textColorHint">#9e9e9e</item>
+    </style>
+
+    <color name="textColorSecondary">#FA0</color>
+
+</resources>

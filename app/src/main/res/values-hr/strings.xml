@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prevedi">Prevedi</string>
+    <string name="provjeri">Provjeri</string>
+    <string name="_n_rijeci">n riječi</string>
+    <string name="_3_rijeci">3 riječi</string>
+    <string name="_2_rijeci">2 riječi </string>
+    <string name="_1_rijeci">1 riječ</string>
+    <string name="duljina_recenice">Duljina rečenice</string>
+    <string name="jezik">Jezik</string>
+    <string name="NoInterntConnection">Nema podatkovne veze</string>
+    <string name="Ćirilica">Ćirilica</string>
+    <string name="Latinica">Latinica</string>
+    <string name="UnesiTekstNaLatinici">Unesi tekst za prijevod na latinici</string>
+    <string name="PrevedenoNaCirilicu">Prijevod na ćirilici</string>
+    <string name="PrevedenoNaLatinicu">Prijevod na latinici</string>
+    <string name="UnesiTekstNaĆirilici">Unesi tekst za prijevod na ćirilici</string>
+    <string name="tema_programa">Tema programa</string>
+    <string name="igra_prevodenja">Vježba</string>
+    <string name="about">O aplikaciji</string>
+    <string name="postavke">Postavke</string>
+    <string name="prevoditelj">Prevoditelj</string>
+    <string name="rate_app">Ocijeni aplikaciju</string>
+    <string name="send_me_your_feedback"> Pošaljite mi Vaše mišljenje</string>
+    <string name="Hrvatski">Hrvatski</string>
+    <string name="Engleski">English</string>
+    <string name="PotrosnjaPodataka">Može povećat potrošnju podatkovnog prometa</string>
+    <string name="WIFIOn">Uključi WIFI</string>
+    <string name="MobileData">Uključi mobilne podatke</string>
+    <string name="InternetConnection">Internetska veza</string>
+    <string name="Exit">Izađi</string>
+    <string name="Continue">Nastavi</string>
+    <string name="PotrebanJeInternet">Potrebna je internetska veza</string>
+    <string name="notOnMarketJet">Aplikacija još nije dostupna na GooglePlay</string>
+    <string name="generiraj_text">Generiraj text</string>
+    <string name="prijevod_teksta_na_cirilici_hint">Prijevod teksta na ćirilici</string>
+    <string name="unesi_prijevod_i_provjeri_hint">Unesi prijevod i provjeri</string>
+    <string name="unesi_tekst_za_prevod_na_latinici_hint">Unesi tekst za prijevod na latinici</string>
+    <string name="lattocir">Alphabet Traslator</string>
+    <string name="zamjeni">Zamjeni</string>
+    <string name="vec_je_na_jeziku">Već je odabrano</string>
+    <string name="dark">Tamna</string>
+    <string name="default_tema">Početna</string>
+    <string name="srpski">Srpski</string>
+    <string name="generirani">Generirani text</string>
+    <string name="AlphabetTraslatorLogo">Alphabet Traslator Logo</string>
+    <string name="Glagoljica">Glagoljica</string>
+    <string name="Bosančica">Bosančica</string>
+    <string name="PrevedenoNaGlagoljicu">na glag</string>
+    <string name="PrevedenoNaBosancicu">na bos</string>
+    <string name="app_version">Alphabet Traslator 1.1 beta version</string>
+
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AlphabetTraslatorLogo">Alphabet Traslator Logo</string>
+    <string name="Bosančica">Bosančica</string>
+    <string name="Continue">Nastavi</string>
+    <string name="Engleski">English</string>
+    <string name="Exit">Izađi</string>
+    <string name="Glagoljica">Glagoljica</string>
+    <string name="Hrvatski">Hrvatski</string>
+    <string name="InternetConnection">Internetska veza</string>
+    <string name="Latinica">Latinica</string>
+    <string name="MobileData">Uključi mobilne podatke</string>
+    <string name="NoInterntConnection">Nema podatkovne veze</string>
+    <string name="PotrebanJeInternet">Potrebna je internetska veza</string>
+    <string name="PotrosnjaPodataka">Može povećat potrošnju podatkovnog prometa</string>
+    <string name="PrevedenoNaBosancicu">na bos</string>
+    <string name="PrevedenoNaCirilicu">Prijevod na ćirilici</string>
+    <string name="PrevedenoNaGlagoljicu">na glag</string>
+    <string name="PrevedenoNaLatinicu">Prijevod na latinici</string>
+    <string name="UnesiTekstNaLatinici">Unesi tekst za prijevod na latinici</string>
+    <string name="UnesiTekstNaĆirilici">Unesi tekst za prijevod na ćirilici</string>
+    <string name="WIFIOn">Uključi WIFI</string>
+    <string name="_1_rijeci">1 riječ</string>
+    <string name="_2_rijeci">2 riječi </string>
+    <string name="_3_rijeci">3 riječi</string>
+    <string name="_n_rijeci">n riječi</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Idi na početnu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Idi gore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Dodatne opcije"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Prikaži sve"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Odabir aplikacije"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ISKLJUČENO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"UKLJUČENO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pretražite…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Izbriši upit"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Upit za pretraživanje"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pretraživanje"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Pošalji upit"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Glasovno pretraživanje"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dijeljenje sa"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dijeljenje sa: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sažmi"</string>
+    <string name="about">O aplikaciji</string>
+    <string name="app_version">Alphabet Traslator 1.1 beta version</string>
+    <string name="dark">Tamna</string>
+    <string name="default_tema">Početna</string>
+    <string name="duljina_recenice">Duljina rečenice</string>
+    <string name="generiraj_text">Generiraj text</string>
+    <string name="generirani">Generirani text</string>
+    <string name="igra_prevodenja">Vježba</string>
+    <string name="jezik">Jezik</string>
+    <string name="lattocir">Alphabet Traslator</string>
+    <string name="notOnMarketJet">Aplikacija još nije dostupna na GooglePlay</string>
+    <string name="postavke">Postavke</string>
+    <string name="prevedi">Prevedi</string>
+    <string name="prevoditelj">Prevoditelj</string>
+    <string name="prijevod_teksta_na_cirilici_hint">Prijevod teksta na ćirilici</string>
+    <string name="provjeri">Provjeri</string>
+    <string name="rate_app">Ocijeni aplikaciju</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pretraživanje"</string>
+    <string name="send_me_your_feedback"> Pošaljite mi Vaše mišljenje</string>
+    <string name="srpski">Srpski</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="tema_programa">Tema programa</string>
+    <string name="unesi_prijevod_i_provjeri_hint">Unesi prijevod i provjeri</string>
+    <string name="unesi_tekst_za_prevod_na_latinici_hint">Unesi tekst za prijevod na latinici</string>
+    <string name="vec_je_na_jeziku">Već je odabrano</string>
+    <string name="zamjeni">Zamjeni</string>
+    <string name="Ćirilica">Ćirilica</string>
+</resources>

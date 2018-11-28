@@ -1,0 +1,43 @@
+working atm
+    -make own keyboard
+    -supporting multiple languages
+
+todo
+
+features
+    -localisation content
+
+priority
+    -exception throw
+    -fix vjezba revoditelj
+    -multithreading
+    -support more languages
+
+not working
+    -double clicking back not working good
+    Translater
+    -change english translation of "prevedi" it shouldnt be "check"
+    -change color of translated text to theme color
+
+works
+    -vertical/horizontal view working
+    Options
+    -theme changing
+    -language changing
+    -"send me your feedback"
+    -everything works
+    -drop menu
+    Translater
+    -everything works
+    Vjezba
+        -lat->cir works
+        -cir->latin works
+
+
+
+not available
+    -rate app on market
+
+could do
+    -remove app name track from activity_main
+    -option for case sensitive on/off

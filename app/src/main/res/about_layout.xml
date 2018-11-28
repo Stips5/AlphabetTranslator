@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"    >
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/LogoimageView"
+        android:src="@drawable/lat_to_cir_icon"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="18dp"
+        android:layout_marginLeft="184dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/LatToCirLogo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/lattocir_version"
+        android:id="@+id/textViewVersion"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/LogoimageView"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rate_app"
+        android:id="@+id/buttonRateApp"
+        android:layout_below="@+id/textViewVersion"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/textViewVersion"
+        android:layout_marginLeft="100dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/send_me_your_feedback"
+        android:id="@+id/buttonFeedbackSend"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/textViewVersion"
+        android:layout_centerHorizontal="true"
+        android:layout_alignRight="@+id/textViewVersion"
+        android:layout_marginRight="100dp"/>
+</RelativeLayout>

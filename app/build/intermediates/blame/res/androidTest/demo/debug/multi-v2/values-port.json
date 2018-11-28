@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/incremental/mergeDemoDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/stips/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/01a6970048c98caf521723dece149a4c/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+#Tue Oct 31 20:27:09 CET 2017
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/15
+base.4=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/11
+base.3=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/12
+base.2=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/16
+base.1=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/13
+base.0=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/14
+file.5=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/15/classes.dex
+file.4=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/11/classes.dex
+file.3=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/12/classes.dex
+file.2=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/16/classes.dex
+file.1=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/13/classes.dex
+file.0=/media/stips/Data1/AndroidStudioProjects/AlphabetTranslator/app/build/intermediates/transforms/dexMerger/demo/debug/14/classes.dex
